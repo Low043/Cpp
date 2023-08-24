@@ -26,6 +26,9 @@ My solutions to some logic problems
 - ### [Middle](LogicProblems/Middle.cpp)
   Output the middle number between three numbers
   <sub>Exibe o número do meio entre três números</sub>
+- ### [Zero to Cancel](LogicProblems/Zero.cpp)
+  Sum the inputs but 0 cancel the last input
+  <sub>Soma as entradas mas 0 cancela a última entrada</sub>
 
 <!--Tutorial de formatação do README
 Formatação:
