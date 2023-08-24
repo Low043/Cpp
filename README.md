@@ -23,6 +23,10 @@ Simple codes that use basic concepts
 My solutions to some logic problems
 <sub>Minhas soluções para alguns problemas de lógica</sub>
 
+- ### [Middle](Basics/Middle.cpp)
+  Output the middle number between three numbers
+  <sub>Exibe o número do meio entre três números</sub>
+
 <!--Tutorial de formatação do README
 Formatação:
   Títulos(# texto) quanto mais # menor a prioridade do título
