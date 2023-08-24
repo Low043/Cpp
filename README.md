@@ -32,6 +32,9 @@ My solutions to some logic problems
 - ### [Zero to Cancel](LogicProblems/Zero.cpp)
   Sum the inputs but 0 cancel the last input
   <sub>Soma as entradas mas 0 cancela a última entrada</sub>
+- ### [Fibonacci](LogicProblems/Fibonacci.cpp)
+  Calculate [fibonacci](https://en.wikipedia.org/wiki/Fibonacci_sequence) numbers
+  <sub>Calcula números de [fibonacci](https://pt.wikipedia.org/wiki/Sequ%C3%AAncia_de_Fibonacci)</sub>
 
 <!--Tutorial de formatação do README
 Formatação:
