@@ -1,4 +1,4 @@
-<!--
+<!--Tutorial de formatação do README
 Formatação:
   Títulos(# texto) quanto mais # menor a prioridade do título
   Negrito(**texto**)
