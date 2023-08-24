@@ -1,6 +1,6 @@
 # **Cpp**
 My codes made in C++
-<sup>Meus códigos feitos em C++</sup>
+<sub>Meus códigos feitos em C++</sub>
 
 ## Basics
 Simple codes that use basic concepts
