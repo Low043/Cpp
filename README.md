@@ -8,7 +8,8 @@ Simple codes that use basic concepts
 - ### [Name](Basics/Name.cpp)
   Basic Input and Output
 
-
+- ### [Name](Basics/Sum.cpp)
+  Sum two numbers
 
 
 
