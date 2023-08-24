@@ -8,7 +8,7 @@ Simple codes that use basic concepts
   Output "Hello World"
 - ### [Name](Basics/Name.cpp)
   Basic Input and Output
-- ### [Name](Basics/Sum.cpp)
+- ### [Sum](Basics/Sum.cpp)
   Sum two numbers
 
 ## Logic Problems
