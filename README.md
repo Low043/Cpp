@@ -27,8 +27,8 @@ My solutions to some logic problems
   Sum the digits of a number
   <sub>Soma os dígitos de um número</sub>
 - ### [Middle](LogicProblems/Middle.cpp)
-  Output the middle number between three numbers
-  <sub>Exibe o número do meio entre três números</sub>
+  Output the middle number of a sequence
+  <sub>Exibe o número do meio de uma sequência</sub>
 - ### [Zero to Cancel](LogicProblems/Zero.cpp)
   Sum the inputs but 0 cancel the last input
   <sub>Soma as entradas mas 0 cancela a última entrada</sub>
