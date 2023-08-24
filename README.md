@@ -11,7 +11,6 @@ Simple codes that use basic concepts
 - ### [Name](Basics/Sum.cpp)
   Sum two numbers
 
-
 ## Logic Problems
 
 
