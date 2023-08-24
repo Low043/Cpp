@@ -3,4 +3,4 @@ My codes made in C++
 ## Basics
 Simple codes that use basic concepts
 - Hello World
-<sub>teste</sub>
+<sup>teste</sup>
