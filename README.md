@@ -2,15 +2,19 @@
 My codes made in C++
 <sub>Meus códigos feitos em C++</sub>
 
-## Basics <sub>Básicos</sub>
+## Basics
 Simple codes that use basic concepts
+<sub>Códigos simples que usam conceitos básicos</sub>
 
 - ### [Hello World](Basics/HelloWorld.cpp)
   Output "Hello World"
+  <sub>Exibe "Olá Mundo"</sub>
 - ### [Name](Basics/Name.cpp)
   Basic Input and Output
+  <sub>Entrada e Saída básica</sub>
 - ### [Sum](Basics/Sum.cpp)
   Sum two numbers
+  <sub>Soma dois números</sub>
 
 ## Logic Problems
 
