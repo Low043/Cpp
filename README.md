@@ -23,6 +23,9 @@ Simple codes that use basic concepts
 My solutions to some logic problems
 <sub>Minhas soluções para alguns problemas de lógica</sub>
 
+- ### [Sum of Digits](LogicProblems/Digits.cpp)
+  Sum the digits of a number
+  <sub>Soma os dígitos de um número</sub>
 - ### [Middle](LogicProblems/Middle.cpp)
   Output the middle number between three numbers
   <sub>Exibe o número do meio entre três números</sub>
