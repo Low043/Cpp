@@ -20,7 +20,8 @@ Simple codes that use basic concepts
   <sub>Faz operações matemáticas com dois inteiros</sub>
 
 ## Logic Problems
-
+My solutions to some logic problems
+<sub>Minhas soluções para alguns problemas de lógica</sub>
 
 <!--Tutorial de formatação do README
 Formatação:
