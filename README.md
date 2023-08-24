@@ -1,4 +1,4 @@
-# **Cpp**
+# **Cpp🤠**
 My codes made in C++
 <sub>Meus códigos feitos em C++</sub>
 
@@ -66,7 +66,7 @@ Listas:
 Menções:
   @Nick
 Emojis:
-  :codigodoemoji:
+  :codigodoemoji
   Link dos códigos https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 Rodapé:
   [^1] Cria link para uma linha no rodapé
