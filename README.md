@@ -2,8 +2,7 @@
 My codes made in C++
 <sub>Meus códigos feitos em C++</sub>
 
-## Basics
-<sub>Básicos</sub>
+## Basics <sub>Básicos</sub>
 Simple codes that use basic concepts
 
 - ### [Hello World](Basics/HelloWorld.cpp)
