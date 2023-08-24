@@ -15,6 +15,9 @@ Simple codes that use basic concepts
 - ### [Sum](Basics/Sum.cpp)
   Sum two numbers
   <sub>Soma dois números</sub>
+- ### [Maths](Basics/Maths.cpp)
+  Do math operations with two integers
+  <sub>Faz operações matemáticas com dois inteiros</sub>
 
 ## Logic Problems
 
